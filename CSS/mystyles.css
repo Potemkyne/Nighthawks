@@ -1,0 +1,106 @@
+@font-face{
+    font-family:SUNN;
+    src: url(SUNN.otf);
+}
+
+p {
+    margin: 5% 0;
+    color: #AAA;
+    font-size: 1em;
+}
+ 
+img{
+    width:100%;
+}
+
+.navbar-default {
+    border-color: rgba(170,0,0,0);
+    background-color:rgba(0,0,0,0);
+}
+
+header{
+    font-family: SUNN;
+    color:white;
+    font-size: 50px;
+    padding-bottom: 150px;
+}
+
+.carousel-caption {
+    position:absolute;
+    margin-bottom: 200px;
+    right:55%;
+    padding: 30px;
+    left:10%;
+    z-index:10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: SUNN;
+    color:#fff;
+    font-size: 30px;
+    text-align:left;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    background-color: rgba(0,0,0,.5);
+
+}
+.btn {
+    border-radius:0;
+    padding:10px 30px;
+}
+.btn.btn-default{
+    background-color: darkslategray;
+    border-color: darkslategray;
+    color: black;
+    border-radius: 0px;
+    font-weight: 100;
+    margin-left: 20px;
+}
+
+.im1{
+     font-size: 60px;
+}
+
+.portfolio{
+    padding-bottom: 70px;
+}
+
+.scale:hover{
+    -ms-transform: scale(1.05,1.05); /* IE 9 */
+    -webkit-transform: scale(1.05,1.05); /* Safari */
+    transform: scale(1.05,1.05);
+    -webkit-transition-duration: 1700ms; /* Safari */
+    transition-duration: 1700ms;
+    -webkit-transition-timing-function: linear; /* Safari and Chrome */
+    transition-timing-function: linear;
+}
+
+div.opaque:hover{
+    opacity:0.5;
+}
+
+span.label {
+    padding:5px 15px;
+    border-radius:0;
+}
+
+.modal-backdrop{
+	position: fixed;
+	top :0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 1040;
+	background-color:whitesmoke;
+}
+
+.modal-backdrop.in{
+	filter: alpha(opacity=10);
+	opacity: .85;
+}
+
+.modal-content{
+	position: relative;
+	background-color: #fff;
+	-webkit-background-clip: padding-box;
+	background-clip: 0px;
+	outline: 0;
+}
