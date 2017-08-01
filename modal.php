@@ -40,7 +40,7 @@ include_once 'header.inc.php';
                     <div class="col-xs-5"> <img class="img-responsive" src="CSS/1.jpg" alt="Nighthawks" > 
                     </div>
                     <div class="col-xs-7">
-                        <p>Nighthawks is a 1942 oil on canvas painting by Edward Hopper that portrays people in a downtown diner late at night. It is Hopper's most famous work, and is one of the most recognizable paintings in American art.</p>
+                        <p>Nighthawks est un tableau de 1942, dont la gravure de 1921 intitulée Ombres de la nuit ou Ombres nocturnes mais aussi « étrange atmosphère » dans le dialecte américain d'Edward Hopper, ainsi que la peinture Drug Store de 1927 semblent marquer les prémices. Le titre est parfois traduit en français sous le titre Noctambules, mais plus souvent Les Rôdeurs de nuit, ou Oiseaux de nuit5, de l'anglais « hawks » qui signifie littéralement « faucon » mais aussi « homme rapace qui fond sur sa proie » en argot.</p>
                     </div>
                 </div>
             </div>

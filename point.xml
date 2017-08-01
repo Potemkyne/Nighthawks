@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf8" ?>
+<markers>
+    <marker id='1' name='Nighthawks.' lat='41.880684' lng='-87.624214' address='111 S Michigan Ave, Chicago, Illinois, États-Unis' scene='The Art Institute of Chicago'/>
+    <marker id='2' name='The Wine Shop' lat='40.739590' lng='-74.008865' address='99 Gansevoort St, New York, NY 10014, États-Unis' scene='Whitney Museum of American Art'/>
+    <marker id='3' name='Summer Interior' lat='40.739590' lng='-74.008865' address='99 Gansevoort St, New York, NY 10014, États-Unis' scene='Whitney Museum of American Art'/>
+    <marker id='4' name='Le Pont Royal' lat='40.739590' lng='-74.008865' address='99 Gansevoort St, New York, NY 10014, États-Unis' scene='Whitney Museum of American Art'/>
+    <marker id='5' name='The Mansard Roof' lat='40.671207' lng='-73.963631' address='200 Eastern Pkwy, Brooklyn, NY 11238, États-Unis' scene='Brooklyn Museum'/>
+    <marker id='6' name='House by the Railroad' lat='40.671207' lng='-73.963631' address='Museum of Modern Art, New York, État de New York, États-Unis' scene='Museum of Modern Art'/>
+    <marker id='7' name='Gas' lat='40.671207' lng='-73.963631' address='Museum of Modern Art, New York, État de New York, États-Unis' scene='Museum of Modern Art'/>
+    <marker id='8' name='New York Movie' lat='40.761433' lng='-73.977623' address='11 W 53rd St, New York, NY 10019, États-Unis' scene='Museum of Modern Art'/>
+    <marker id='9' name='Night Windows' lat='40.761433' lng='-73.977623' address='11 W 53rd St, New York, NY 10019, États-Unis' scene='Museum of Modern Art'/>
+    <marker id='10' name='Coast Guard Station, Two Lights, Maine' lat='40.761433' lng='-73.977623' address='5th Avenue, New York, État de New York, États-Unis' scene='Metropolitan Museum of Art'/>
+    <marker id='11' name='Evening Wind' lat='40.761433' lng='-73.977623' address='5th Avenue, New York, État de New York, États-Unis' scene='Metropolitan Museum of Art'/>
+    <marker id='12' name='People in the Sun' lat='38.897861' lng='-77.022942' address='F St NW 8th St NW, Washington, DC 20004, États-Unis' scene='Smithsonian American Art Museum'/>
+    <marker id='13' name='Intermission' lat='37.785717' lng='-122.401054' address='151 3rd St, San Francisco, CA 94103, États-Unis' scene='San Francisco Museum of Modern Art'/>
+    <marker id='14' name='Hirshhorn Museum' lat='38.887939' lng='-77.023064' address='Independence Ave SW, Washington, DC 20024, États-Unis' scene='Hirshhorn Museum'/>
+    <marker id='15' name='Hotel by a Railroad' lat='38.887939' lng='-77.023064' address='Independence Ave SW, Washington, DC 20024, États-Unis' scene='Hirshhorn Museum'/>
+    <marker id='16' name='Morning Sun' lat='39.964382' lng='-82.987770' address='480 E Broad St, Columbus, OH 43215, États-Unis' scene='Columbus Museum of Art'/>
+    <marker id='17' name='Rooms by the Sea' lat='41.308342' lng='-72.930618' address='1111 Chapel St, New Haven, CT 06510, États-Unis' scene='Yale University Art Gallery'/>
+    <marker id='18' name='Portrait of Orleans' lat='37.771469' lng='-122.468674' address='50 Hagiwara Tea Garden Dr, San Francisco, CA 94118, États-Unis' scene='De Young Museum'/>
+    <marker id='19' name='Cape Cod Morning' lat='38.897861' lng='-77.022942' address='F St NW  8th St NW, Washington, DC 20004, États-Unis' scene='Smithsonian American Art Museum'/>
+    <marker id='20' name='Conference at Night' lat='37.694984' lng='-97.356117' address='1400 Museum Blvd, Wichita, KS 67203, États-Unis' scene='Wichita Art Museum'/>
+    <marker id='21' name='High Noon' lat='39.766171' lng='-84.201035' address='456 Belmonte Park N, Dayton, OH 45405, États-Unis' scene='Dayton Art Institute'/>
+    <marker id='22' name='Seven AM' lat='40.739590' lng='-74.008865' address='99 Gansevoort St, New York, NY 10014, États-Unis' scene='Whitney Museum of American Art'/>
+    <marker id='23' name='Morning in a City' lat='42.711166' lng='-73.202766' address='15 Lawrence Hall Dr #2, Williamstown, MA 01267, États-Unis' scene='Williams College Museum of Art'/>
+    <marker id='24' name='Summertime' lat='39.765366' lng='-75.564697' address='2301 Kentmere Pkwy, Wilmington, DE 19806, États-Unis' scene='Delaware Art Museum'/>
+    <marker id='25' name='Hotel Lobby' lat='39.824905' lng='-86.184799' address='4000 Michigan Rd, Indianapolis, IN 46208, États-Unis' scene='Indianapolis Museum of Art'/>
+    <marker id='26' name='Ground Swell' lat='38.895859' lng='-77.039925' address='500 17th St NW, Washington, DC 20006, États-Unis' scene='Corcoran Gallery of Art'/>
+    <marker id='27' name='House at Dusk' lat='37.556423' lng='-77.474709' address='200 N Boulevard, Richmond, VA 23220, États-Unis' scene='Virginia Museum of Fine Arts'/>
+    <marker id='28' name='East Wind Over Weehawken' lat='39.955616' lng='-75.163490' address='118-128 N Broad St, Philadelphia, PA 19102, États-Unis' scene='Pennsylvania Academy of the Fine Arts'/>
+</markers>

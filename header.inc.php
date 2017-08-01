@@ -29,6 +29,7 @@
                             </ul>
                         </li>
                         <li><a href="modal.php">Modal</a></li>
+                        <li><a href="mapsql.php">Où sont exposer les oeuvres?</a></li>
                     </ul>
                     <form class="navbar-form navbar-right inline-form" method="post" action="#">
                         <div class="form-group">

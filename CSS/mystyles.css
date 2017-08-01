@@ -1,3 +1,11 @@
+#map{
+    height: 90%;
+}
+html, body {
+    height: 80%;
+    margin: 0;
+    padding: 0;
+}
 @font-face{
     font-family:SUNN;
     src: url(SUNN.otf);
@@ -8,7 +16,7 @@ p {
     color: #AAA;
     font-size: 1em;
 }
- 
+
 img{
     width:100%;
 }
@@ -56,7 +64,7 @@ header{
 }
 
 .im1{
-     font-size: 60px;
+    font-size: 60px;
 }
 
 .portfolio{
@@ -83,24 +91,24 @@ span.label {
 }
 
 .modal-backdrop{
-	position: fixed;
-	top :0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	z-index: 1040;
-	background-color:whitesmoke;
+    position: fixed;
+    top :0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1040;
+    background-color:whitesmoke;
 }
 
 .modal-backdrop.in{
-	filter: alpha(opacity=10);
-	opacity: .85;
+    filter: alpha(opacity=10);
+    opacity: .85;
 }
 
 .modal-content{
-	position: relative;
-	background-color: #fff;
-	-webkit-background-clip: padding-box;
-	background-clip: 0px;
-	outline: 0;
+    position: relative;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: 0px;
+    outline: 0;
 }
